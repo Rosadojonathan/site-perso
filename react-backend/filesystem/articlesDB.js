@@ -5,7 +5,7 @@ const tcdsea = require('../ArticlesBlog/tcdsea.js').article;
 module.exports.articlesDB = [
   {
     id:1,
-    path:'créer-facebook-ads-avec-api',
+    path:'creer-facebook-ads-avec-api',
     title:"Comment automatiser la création d'une Facebook Ad à partir de l'API ?",
     description:"Créer des publicités sur Facebook peut rapidement devenir un processus ennuyeux et répétitif. Si vous déjà remarqué qu'il existe peu de variation de contenu entre vos annonces à part quelques éléments c'est que l'automatisation peut potentiellement vous être utile. Dans cet article nous allons voir comment créer un script qui semi-automatise la création de Facebook Ads grâce à Python et l'API de Facebook.",
     content:`  ${articleFacebookAdsApi.content}`
